@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "a": {
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-QDwxximXZJx75AuOrmDjtFs8Ci0Sq5gjSKmYLo2U6gs=",
+        "path": "./../a",
+        "type": "path"
+      },
+      "original": {
+        "path": "./../a",
+        "type": "path"
+      }
+    },
+    "root": {
+      "inputs": {
+        "a": "a"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
