@@ -8,11 +8,11 @@
       "locked": {
         "lastModified": 1,
         "narHash": "sha256-xlRoGtT72GTwflhQ8QNxtx3Ws51mf0b90aUfh2uW5Bg=",
-        "path": "./../a",
+        "path": "../a",
         "type": "path"
       },
       "original": {
-        "path": "./../a",
+        "path": "../a",
         "type": "path"
       }
     },

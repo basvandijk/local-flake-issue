@@ -2,7 +2,7 @@
   description = "Flake B";
 
   inputs = {
-    a.url = "path:./../a";
+    a.url = "path:../a";
     nixpkgs.follows = "a/nixpkgs";
     flake-utils.follows = "a/flake-utils";
   };
